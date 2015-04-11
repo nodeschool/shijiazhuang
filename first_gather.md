@@ -6,7 +6,7 @@ On March 7rd 2015 the first meetspace gathering of the Shijiazhuang chapter of N
 which our company also organize.
 About 10 students showed up from Hebei University Of Science and Technology.
 
-![In the heat of the battle](https://raw.githubusercontent.com/nodeschool/shijiazhuang/master/img/first_gather_2.jpg)
+![In the heat of the battle](https://raw.githubusercontent.com/nodeschool/shijiazhuang/master/img/first_gather_2.JPG)
 
 
 
@@ -34,7 +34,7 @@ In our company, although the site is a bit small but from the school is very con
 When people had arrived and settled down a bit, we explained what we had come to do:
 learn js together using the [little_game](https://github.com/tianlitao/js_memory_game).
 
-![In the heat of the battle](https://raw.githubusercontent.com/nodeschool/shijiazhuang/master/img/first_gather_1.jpg)
+![In the heat of the battle](https://raw.githubusercontent.com/nodeschool/shijiazhuang/master/img/first_gather_1.JPG)
 
 
 From that point on we mentors just wandered around between the tables, and answered any questions.
